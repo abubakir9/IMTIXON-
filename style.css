@@ -1,0 +1,89 @@
+.bosh{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    width:150px ;
+    height:50px ;
+    color: red;
+    border: 3px solid red;
+    border-radius: 20px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+.a1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: red;
+}
+.a2{
+    color: red;
+}
+.button2{
+    color: black;
+    background-color:#DE2E54CC;
+    border: none;
+    color: white;
+}
+.div1{
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 300px;
+    color: white;
+}
+.olma{
+    display: flex;
+    align-items: center;
+   
+}
+.div3{
+    margin-left: 400px;
+}
+.olma{
+    background-image: url(./image\ 4\ \(1\).png);
+    background-size: cover;
+    margin-top: 50px;
+}
+h2{
+    text-align: center;
+}
+.anor{
+    display: flex;
+    align-items: center;
+    width: 800px;
+    gap: 50px;
+   margin-left: 400px;
+}
+.bg{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+    gap: 50px;
+}
+.b222{
+    background-color: aqua;
+    width: 1650px;
+    
+ 
+}
+input{
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    margin-left: 1200px;
+}
+.h1{
+    text-align: center;
+}
+
+
+
+
+
+
+
